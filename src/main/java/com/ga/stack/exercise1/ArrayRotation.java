@@ -1,3 +1,5 @@
+package com.ga.stack.exercise1;
+
 import java.util.Arrays;
 
 public class ArrayRotation {

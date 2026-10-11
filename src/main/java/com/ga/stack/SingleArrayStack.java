@@ -1,3 +1,5 @@
+package com.ga.stack;
+
 public class SingleArrayStack {
     private final int maxSize;
     private final char[] stackArray;
